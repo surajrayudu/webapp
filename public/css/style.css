@@ -1,0 +1,30 @@
+body{
+    color: #888888;
+    font-size: medium;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+    width: max-content;
+    padding: 16px;
+    margin: 0 auto;
+
+}
+
+footer{
+    color: #888888;
+    border-top: white;
+    margin: 16px;
+    padding:16px 0;
+
+}
+input{
+    border:2px solid #cccccc;
+    padding: 8px;
+}
+button{
+    border: 1px solid #888888;
+    background-color: #888888;
+    color: white;
+    cursor: pointer;
+    padding: 8px;
+
+}
