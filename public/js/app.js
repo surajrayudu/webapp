@@ -1,7 +1,7 @@
 
 console.log('client side server')
 console.log('welcome')
-
+console.log('hi!')
 //to print the output on develop tool console box
 
 const wf=document.querySelector('form')
