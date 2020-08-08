@@ -11,6 +11,7 @@ const forecast=require('./utils/forecast')
 console.log(path.join(__dirname,'../public'))
 
 const app=express()
+//port is used for making the application run as a website else u can also run in localhost
 const port=process.env.PORT || 3000
 
 //define paths for express config
