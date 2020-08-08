@@ -112,7 +112,7 @@ res.render('404page',{
     errormsg:'404 page not found'
 })
 })
-//console.log('hi)
+
 app.listen(port, () => {
     console.log('Server is up on port.'+ port)
 })
